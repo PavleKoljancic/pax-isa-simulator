@@ -1,0 +1,14 @@
+pax/simulator/isa/compiler/Compiler.class
+pax/simulator/isa/compiler/CompilerException.class
+pax/simulator/isa/vm/PaxVirtualProcessorDebugMode.class
+pax/simulator/isa/compiler/Parser.class
+pax/simulator/isa/vm/PaxVirtualMachine.class
+pax/simulator/isa/vm/PaxMemory.class
+pax/simulator/isa/vm/MemorizedPrintStream.class
+pax/simulator/isa/compiler/ByteCodeEncoder.class
+pax/simulator/isa/vm/PaxVirtualProcessor.class
+pax/simulator/isa/vm/PaxMemory$1.class
+pax/simulator/isa/vm/PaxVirtualMachineRunTimeException.class
+pax/simulator/isa/vm/PaxMemory$IProcessMemoryByte.class
+pax/simulator/isa/vm/PaxMemory$2.class
+pax/simulator/isa/InstructionSet.class

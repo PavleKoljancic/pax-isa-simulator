@@ -1,0 +1,11 @@
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/compiler/Parser.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/compiler/CompilerException.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/MemorizedPrintStream.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/compiler/ByteCodeEncoder.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/PaxVirtualProcessorDebugMode.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/InstructionSet.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/PaxMemory.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/PaxVirtualMachine.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/PaxVirtualProcessor.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/vm/PaxVirtualMachineRunTimeException.java
+/media/pavle/ssd2/FAKS/3/AR - Arhitektura racunara/Projekat 1/pax/src/main/java/pax/simulator/isa/compiler/Compiler.java
